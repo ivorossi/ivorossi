@@ -1,10 +1,10 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ivorossi&label=Profile%20views&color=6748d5&style=plastic" alt="ivorossi" /> </p>
 <h1 align="left">Hi 👋, I'm Ivo Rossi</h1>
-<h3 align="center">
+<h3 align="left">
  Desarrollador de software | Backend Developer | Actualemente curso el ultimo semestre de la tecnicatura en programación de UTN
 </h3>
 </br>
-<h1 align="center">Stats</h1>
+<h1 align="left">Stats</h1>
 <table align="center">
 <tr>
     <td width=50%>
