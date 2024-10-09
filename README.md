@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ivo Rossi</h1>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ivorossi&label=Profile%20views&color=6748d5&style=plastic" alt="ivorossi" /> </p>
 <h3 align="center">
  Desarrollador de software | Backend Developer | Actualemente curso el ultimo semestre de la tecnicatura en programación de UTN
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivorossi&label=Profile%20views&color=6748d5&style=plastic" alt="ivorossi" /> </p>
+
 
 </br>
 <h1 align="center">Stats</h1>
