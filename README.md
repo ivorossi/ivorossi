@@ -14,9 +14,7 @@
 <table align="center">
  <tr>
   <td>
-   <p>
-    nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivorossi&show_icons=true&theme=dracula&title_color=1e0f19&bg_color=1d213e&hide_border=true&locale=en" alt="ivorossi" /><
-   </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivorossi&show_icons=true&theme=dracula&title_color=1e0f19&bg_color=1d213e&hide_border=true&locale=en" alt="ivorossi" /></p>
   </td>
   <td>
    <p>
