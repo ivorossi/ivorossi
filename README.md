@@ -14,10 +14,10 @@
 <table align="center">
  <tr>
   <td>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivorossi&show_icons=true&theme=synthwave&title_color=000000&bg_color=000000&hide_border=true&locale=en" alt="ivorossi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivorossi&show_icons=true&theme=onedark&locale=en" alt="ivorossi" /></p>
   </td>
   <td>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivorossi&show_icons=true&theme=cobalt&title_color=000000&bg_color=000000&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="ivorossi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivorossi&show_icons=true&locale=en&layout=compact" alt="ivorossi" /></p>
   </td>
  </tr>
  <tr>
