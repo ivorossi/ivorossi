@@ -19,7 +19,7 @@
     </td>
   </tr>
   <tr>
-    <td width=100%>
+    <td >
    <p>
     <img width=100% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivorossi&theme=dark" alt="ivorossi" />
    </p>
