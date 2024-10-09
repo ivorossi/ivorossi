@@ -14,7 +14,13 @@
 <table align="center">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivorossi&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="ivorossi" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivorossi&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="ivorossi" /></p>
+
+<p><img   width: 300px;
+  min-height: 250px;
+  margin: auto;
+  color: white;
+  padding: 2rem;
+    align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivorossi&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="ivorossi" /></p>
 
 
 
