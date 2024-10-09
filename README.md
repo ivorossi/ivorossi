@@ -14,22 +14,22 @@
 <table align="center">
  <tr>
   <td>
-   <p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivorossi&show_icons=true&theme=gruvbox&hide_border=true&locale=en" alt="ivorossi" />
+   <p>
+    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivorossi&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="ivorossi" />
    </p>
   </td>
   <td>
    <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivorossi&show_icons=true&locale=en&layout=compact" alt="ivorossi" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivorossi&show_icons=true&theme=dracula&title_color=000000&bg_color=1d213e&cache_seconds=1800&locale=en&layout=compact" alt="ivorossi" />
    </p>
   </td>
  </tr>
 
-
+<tr>
    <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivorossi&" alt="ivorossi" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivorossi&theme=highcontrast" alt="ivorossi" />
    </p>
-  
+   </tr>
 </table>
 
 <h3 align="left">Connect with me:</h3>
