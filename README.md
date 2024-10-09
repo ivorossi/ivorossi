@@ -13,24 +13,24 @@
 </br><h1 align="center">Stats</h1>
 <table width=100% align="center">
 <tr>
-    <td width=50% >
+    <td width=55% >
      <p>
       <img width=100% align="center" src="https://github-readme-stats.vercel.app/api?username=ivorossi&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="ivorossi"/>  
      </p>
     </td>
-    <td width=50%>
+    <td width=45%>
     <p>
      <img width=100% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivorossi&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="ivorossi" />
     </p>
     </td>
   </tr>
   <tr>
-    <td width=50%>
+    <td width=55%>
    <p>
     <img width=100% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivorossi&theme=dark" alt="ivorossi" />
    </p>
     </td>
-    <td width=50%>
+    <td width=45%>
     <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ivo-martin-rossi-cerna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ivo-martin-rossi-cerna/" height="30" width="40" /></a>
