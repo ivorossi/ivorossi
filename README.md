@@ -13,9 +13,9 @@
 </br><h1 align="center">Stats</h1>
 <table align="center">
 
-<p>&nbsp;<img  width=50% height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=ivorossi&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="ivorossi" /></p>
+<p>&nbsp;<img  width=50%  align="center" src="https://github-readme-stats.vercel.app/api?username=ivorossi&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="ivorossi" /></p>
 
-<p><img width=50% height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivorossi&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="ivorossi" /></p>
+<p><img width=50%  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivorossi&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="ivorossi" /></p>
 
 
 
@@ -26,7 +26,7 @@
 
 
    <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivorossi&theme=dark" alt="ivorossi" />
+    <img width=50% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivorossi&theme=dark" alt="ivorossi" />
    </p>
 
 
