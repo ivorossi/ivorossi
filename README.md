@@ -19,8 +19,8 @@
     </td>
   </tr>
 </table>
-<table >
- <tr width=50%>
+<table width=100% align="center">
+ <tr>
     <p>
     <img width=50% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivorossi&theme=dark" alt="ivorossi" />
    </p>
