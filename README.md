@@ -13,11 +13,14 @@
 </br><h1 align="center">Stats</h1>
 <table align="center">
 
+<tr>
+    <td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivorossi&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="ivorossi" /></p></td>
+    <td><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivorossi&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="ivorossi" /></p></td>
+  </tr>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ivorossi&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="ivorossi" /></p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivorossi&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="ivorossi" /></p>
+
 
 
 
