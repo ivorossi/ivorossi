@@ -23,7 +23,7 @@
  <tr>
     <td >
     <p>
-    <img width=50% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivorossi&theme=dark" alt="ivorossi" />
+    <img width=100% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivorossi&theme=dark" alt="ivorossi" />
    </p>
     </td>
  </tr>
