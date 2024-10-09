@@ -25,11 +25,11 @@
   </td>
  </tr>
 
-<tr>
+<td>
    <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivorossi&theme=highcontrast" alt="ivorossi" />
    </p>
-   </tr>
+   </td>
 </table>
 
 <h3 align="left">Connect with me:</h3>
