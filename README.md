@@ -18,8 +18,7 @@
     </p>
     </td>
   </tr>
-</table>
-<table width=100% align="center">
+
  <tr>
     <td >
     <p>
