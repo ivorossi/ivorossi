@@ -18,10 +18,11 @@
     </p>
     </td>
   </tr>
-</table>
-   <p>
+    <p>
     <img width=100% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivorossi&theme=dark" alt="ivorossi" />
    </p>
+</table>
+
 </br>
 
 
