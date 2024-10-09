@@ -12,30 +12,45 @@
 
 </br><h1 align="center">Stats</h1>
 <table align="center">
-
-<p>&nbsp;<img  width=45%  align="left" src="https://github-readme-stats.vercel.app/api?username=ivorossi&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="ivorossi" /></p>
-
-<p><img width=45%  align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivorossi&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="ivorossi" /></p>
-
-
-
-
-
-
-
-
-
+<tr>
+    <td>
+     <p>&nbsp;<img  width=45%  align="left" src="https://github-readme-stats.vercel.app/api?username=ivorossi&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="ivorossi" /></p>
+    </td>
+    <td>
+    <p><img width=45%  align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivorossi&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="ivorossi" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+     
    <p>
     <img width=45% align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ivorossi&theme=dark" alt="ivorossi" />
    </p>
-
-
-<h3 align="left">Connect with me:</h3>
+    </td>
+    <td>
+    <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ivo-martin-rossi-cerna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ivo-martin-rossi-cerna/" height="30" width="40" /></a>
 <a href="https://instagram.com/ivomartinrossi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivomartinrossi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rossiivomartin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rossiivomartin" height="30" width="40" /></a>
 </p>
+    </td>
+  </tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 </table>
