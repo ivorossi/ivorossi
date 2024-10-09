@@ -5,7 +5,7 @@
 </h3>
 </br>
 <h1 align="center">Stats</h1>
-<table width=100% align="center">
+<table align="center">
 <tr>
     <td width=50%>
      <p>
@@ -18,7 +18,8 @@
     </p>
     </td>
   </tr>
-
+</table>
+<table align="center">
  <tr>
    <td>
     <p>
