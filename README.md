@@ -110,7 +110,7 @@
 	</p>
 </details>
 <details>
-	<sumarry><b>Featured</b></sumarry></details></br>
+	<sumarry><b>Featured</b></sumarry></br>
  <p align="left"> 
 	<a href="https://opencv.org/" target="_blank" rel="noreferrer">
 		<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
