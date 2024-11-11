@@ -10,17 +10,17 @@
 <h2 align="left">Stats</h2>
 <table align="center">
     <tr>
-        <td width=50%>
+        <td width=60%>
             <p>
                 <img width=100% align="center"
                     src="https://github-readme-stats.vercel.app/api?username=ivorossi&show_icons=true&theme=dracula&hide_border=true&locale=en"
                     alt="ivorossi" />
             </p>
         </td>
-        <td width=45%>
+        <td width=40%>
             <p>
                 <img width=100% align="center"
-                    src="https://github-readme-stats.vercel.app/api/top-langs?username=ivorossi&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact"
+                    src="https://github-readme-stats.vercel.app/api/top-langs?username=ivorossi&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact&langs_count=8"
                     alt="ivorossi" />
             </p>
         </td>
