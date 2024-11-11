@@ -171,5 +171,11 @@
     <a href="https://www.hackerrank.com/rossiivomartin" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
             alt="rossiivomartin" height="30" width="40" /></a>
-</p>
+</p></br>
+ <ul>
+        <li><strong>CV: </strong><a href="https://docs.google.com/document/d/e/2PACX-1vT1W74xIhbYfPEcQBUs_pkHN5Imo_0MiPz7fLHvQ0yHxqFc-kzBDfRjoPO9NpFFzg/pub">link to published document</a></li>
+        <li><strong>Email: </strong><code>rossiivomartin@gmail.com</code></li>
+ </ul>
+
+        
 
